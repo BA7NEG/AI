@@ -1,2 +1,2 @@
 # AI
-Trends_Artificial_Intelligence
+2025年人工智能趋势中文理解网站---已完成部分
